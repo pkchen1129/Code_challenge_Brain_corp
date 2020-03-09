@@ -1,14 +1,19 @@
 # Code_challenge_Brain_corp
 
 ## Command instructions:
-1.The command for running the makefile should be: “make” and then “./run”. You could "make clean" to clean up the .o files.
-2.The inputs when running the code are as following:
- - Whether generated numbers automatically or not?: (y or n)
-  If yes, it'll generate the number automatically, however since it's too big, it won't be printed. 
-  If no, it'll be printed and you have to enter the number N, D, T.
-   (i) Input Dimension: (N) You could try an integer under 10 that it'll be easier to see
-   (ii) Window size: (D)     
-   (iii) Number of Iteration: T (time length)
+1. The command for running the makefile should be: “make” and then “./run”. You could "make clean" to clean up the .o files.
+2. The inputs when running the code are as following:
+
+   --> Whether generated numbers automatically or not?: (y or n)
+  
+   If yes, it'll generate the number automatically, however since it's too big, it won't be printed. 
+   If no, it'll be printed and you have to enter the number N, D, T.
+  
+   (i)  Input Dimension: (N) You could try an integer under 10 that it'll be easier to see
+   
+   (ii)  Window size: (D)     
+   
+   (iii)  Number of Iteration: T (time length)
           (N, D, and T could be created randomly for that I've implemented the random generator)
 
 
